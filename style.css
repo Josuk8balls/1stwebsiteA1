@@ -26,7 +26,7 @@
 .header .menu {
     display: flex;
     justify-content: space-evenly;
-    gap: 50px
+    gap: 40px
 }
 
 .header .menu .ensemble {
@@ -80,6 +80,7 @@
 .blocb .element {
     width: 100%;
     padding-left: 2%;
+    border: solid 1px blue;
 }
 
 .blocb .element h2 {
@@ -175,14 +176,11 @@
 }
 
 .page {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:space-around;
-    background-color: #b1f4fd;
+    display: block;
 }
 
 .page .ma {
-    border: solid 1px #030303;
+    border: solid 1px blue;
     background-color: white;
     text-align: center;
 }
