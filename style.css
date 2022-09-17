@@ -101,7 +101,7 @@
 }
 
 .blocb .questimage img {
-    width: 50%;
+    width: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -114,6 +114,7 @@
 
 .blocc {
     display: flex;
+    width: 100%;
     align-items: center;
 }
 
